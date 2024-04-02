@@ -8,6 +8,7 @@ The original modules are available as [branches](branches.json) in the old https
 
 | Package | Repository | Original Branch |
 | ------- | ---------- | --------------- |
+| xaraya/twig | https://github.com/xaraya-modules/twig | - |
 | xaraya/library | https://github.com/xaraya-modules/library | - |
 | xaraya/apischemas | https://github.com/xaraya-modules/apischemas | - |
 | xaraya/cachemanager | https://github.com/xaraya-modules/cachemanager | [com.xaraya.modules.jamaica.xarcachemanager](https://github.com/xaraya/modules/tree/com.xaraya.modules.jamaica.xarcachemanager) |
