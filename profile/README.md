@@ -8,6 +8,10 @@ The original modules are available as [branches](branches.json) in the old https
 
 | Package | Repository | Original Branch |
 | ------- | ---------- | --------------- |
+| xaraya/with-laravel | https://github.com/xaraya-modules/with-laravel | - |
+| xaraya/with-symfony | https://github.com/xaraya-modules/with-symfony | - |
+| xaraya/webhooks | https://github.com/xaraya-modules/webhooks | - |
+| xaraya/skeleton | https://github.com/xaraya-modules/skeleton | - |
 | xaraya/twig | https://github.com/xaraya-modules/twig | - |
 | xaraya/library | https://github.com/xaraya-modules/library | - |
 | xaraya/apischemas | https://github.com/xaraya-modules/apischemas | - |
